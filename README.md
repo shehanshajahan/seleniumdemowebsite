@@ -67,7 +67,3 @@ driver.quit()
 <img width="1122" height="477" alt="Screenshot 2026-10-06 115902" src="https://github.com/user-attachments/assets/c47dd63c-d19b-44cf-afb3-989e823c25ec" />
 <img width="547" height="123" alt="Screenshot 2026-10-06 115919" src="https://github.com/user-attachments/assets/a86fbcd1-997b-442f-8e9e-58ff2d181df2" />
 <img width="1077" height="323" alt="Screenshot 2026-10-06 115923" src="https://github.com/user-attachments/assets/4dc83229-33a2-4592-b416-08af2e081089" />
-
-
-
-driver.quit()
